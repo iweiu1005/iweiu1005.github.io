@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Posts on Tutorial Blog</title>
-    <link>https://iweiu1005.github.io/posts/</link>
-    <description>Recent content in Posts on Tutorial Blog</description>
-    <image>
-      <title>Tutorial Blog</title>
-      <url>https://iweiu1005.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://iweiu1005.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.148.2</generator>
-    <language>fa-ir</language>
-    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://iweiu1005.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>آموزش و بات های کاربردی ساخت استیکر در تلگرام</title>
-      <link>https://iweiu1005.github.io/posts/telegram-bot-for-sticker/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://iweiu1005.github.io/posts/telegram-bot-for-sticker/</guid>
-      <description>آرشیو بات و آموزش های کاربردی تلگرام برای ساخت استیکر</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on My New Hugo Site</title><link>https://example.org/posts/</link><description>Recent content in Posts on My New Hugo Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>آموزش و بات های کاربردی ساخت استیکر در تلگرام</title><link>https://example.org/posts/telegram-bot-for-sticker/</link><pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><guid>https://example.org/posts/telegram-bot-for-sticker/</guid><description>&lt;p>&lt;img src="https://uploadkon.ir/uploads/0b2615_25aa32094fb886b5bd20c6e5de376f601a.jpg" alt="">&lt;/p>
+&lt;p>&lt;strong>اینجا چند تات از آموزشها و لیست باتهایی که تو ساخت پک استیکر تلگرامی کمکتون میکنه رو گذاشتم که میتونید ازشون استفاده کنید&lt;/strong> &lt;img src="https://s33.picofile.com/file/8485364684/Totoro59.gif" alt=""> &lt;/p>
+&lt;hr>
+&lt;p>&lt;img src="https://s33.picofile.com/file/8485364692/264.gif" alt=""> &lt;strong>معرفی چند تا بات کاربردی در زمینه ساخت استیکر:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://t.me/TgEmodziBot">TgEmodziBot&lt;/a> (ساخت استیکر ویدیویی/ عکس/ ایموجی / تبدیل استیکر به ایموجی )&lt;/li>
+&lt;li>&lt;a href="https://t.me/fStikBot">fStikBot&lt;/a> (ساخت استیکر ویدیویی/ عکس/ ایموجی / تبدیل استیکر به ایموجی )&lt;/li>
+&lt;li>&lt;a href="https://t.me/StickersPackRobot">StickersPackRobot&lt;/a> (ساخت استیکر ویدیویی/ عکس/ ایموجی)&lt;/li>
+&lt;li>&lt;a href="https://t.me/favorite_stickers_bot">favorite_stickers_bot&lt;/a> (ساخت استیکر ویدیویی/ عکس/ ایموجی)&lt;/li>
+&lt;li>&lt;a href="https://t.me/videotostickerbot">videotostickerbot&lt;/a> (ساخت استیکر ویدیویی)&lt;/li>
+&lt;li>&lt;a href="https://t.me/StickerResizerBot">StickerResizerBot&lt;/a> (تغییر سایز عکس متناسب با استیکر) /* تو آپدیت جدید عکس رو تو اندازه ایموجی هم اوکی میکنه */&lt;/li>
+&lt;li>&lt;a href="https://t.me/resizeimgforstickerbot">resizeimgforstickerbot&lt;/a> (تغییر سایز عکس متناسب با استیکر)&lt;/li>
+&lt;li>&lt;a href="https://t.me/sticker_convert_bot">sticker_convert_bot&lt;/a> (تبدیل استیکر عکس به پی ان جی)&lt;/li>
+&lt;/ul>
+&lt;p>  - &lt;a href="https://t.me/resizeimgforstickerbot">resizeimgforstickerbot&lt;/a> -&lt;/p></description></item></channel></rss>
