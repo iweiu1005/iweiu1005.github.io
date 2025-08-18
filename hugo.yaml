@@ -150,10 +150,7 @@ menu:
       name: دسته بندی
       url: /categories/
       weight: 10
-    - identifier: tags
-      name: تگ
-      url: /tags/
-      weight: 20
+
     - identifier: search  # اضافه کردن منوی جستجو
       name: جستجو
       url: /search/
