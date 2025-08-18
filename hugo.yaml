@@ -104,7 +104,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "وبلاگ آموزشی"
-    Content: "آموزش ادیت حرفه ای و ترفندهای کاربردی فقط با گوشی | آموزش برنامه های مختلف ادیت من جمله : الایت موشن، کپکات، آیبیس پینت، پیکسللب، و..."
+    Content: "تو این وبلاگ از موضوعات مختلف سعی میکنم بزارم که بدردتون میخوره، از معرفی سایت و بات گرفته تا آموزش های مختلف و کاربردی.."
 
   socialIcons:
     - name: "telegram" 
@@ -112,9 +112,13 @@ params:
     - name: "youtube"
       url: "https://youtube.com/@editbalter"
     - name: "pinterest"  
-      url: "https://de.pinterest.com/editbalter/"
+      url: "https://de.pinterest.com/editbalter/"    
+    - name: "kofi"
+      url: "https://ko-fi.com/woodywork"
     - name: "aparat"
       url: "https://www.aparat.com/balteredit"
+    - name: "web"
+      url: "https://balteredit.ir"
 
   analytics:
     google:

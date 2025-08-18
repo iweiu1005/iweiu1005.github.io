@@ -2,8 +2,8 @@
 author: "وودی"
 title: "معرفی هوش مصنوعی صدا"
 date: "2025-08-16"
-tags: ["هوش مصنوعی", "تبدیل صدا"]
-categories: [هوش مصنوعی , "معرفی سایت" , آموزش]
+tags: ["هوش مصنوعی", "تبدیل صدا", "معرفی هوش مصنوعی"]
+categories: [هوش مصنوعی]
 description: "معرفی بهترین هوش مصنوعی در زمینه متن به صدا و کلون صدا"
 ShowToc: false
 ShowBreadCrumbs: false
@@ -15,7 +15,7 @@ ShowBreadCrumbs: false
 
  
 
-### ![](https://s33.picofile.com/file/8485364418/131.gif) [**openai.fm**](https://www.openai.fm/)
+### ![](https://s33.picofile.com/file/8485364418/131.gif) [**سایت openai.fm**](https://www.openai.fm/)
 
 این هوش مصنوعی یکی از معدود هوش مصنوعیای تو این زمینه اس که میتونه متن فارسی رو خیلی روون صحبت کنه و هیچ محدودیتی نداره و کاملا رایگانه؛ شما میتونی با یه پرامپت بهش بگی که با چه لحن و لهجه و وایبی حرف بزنه.
 
@@ -60,7 +60,7 @@ nection over instruction — it’s more about sharing the moment than deliverin
 
 ![](https://uploadkon.ir/uploads/8b0c20_25openai-fm-shot-2.png)
 
-### ![](https://s33.picofile.com/file/8485364418/131.gif) [**vocloner.com**](https://vocloner.com/)
+### ![](https://s33.picofile.com/file/8485364418/131.gif) [**سایت vocloner.com**](https://vocloner.com/)
 
 فقط کافیه صدایی از خودت یا کسی که میخوای از صداش کلون بسازی رو ضبط کنی و بصورت فایل صوتی براش آپلود کنی تا یه نسخه از صدایی که میخوای به بهترین نحو کلون کنه؛
 
