@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Tutorial Blog</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Tutorial Blog</description>
+    <title>بات های کاربردی تلگرام on Tutorial Blog</title>
+    <link>http://localhost:1313/tags/%D8%A8%D8%A7%D8%AA-%D9%87%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%DB%8C-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85/</link>
+    <description>Recent content in بات های کاربردی تلگرام on Tutorial Blog</description>
     <image>
       <title>Tutorial Blog</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,27 +12,13 @@
     <generator>Hugo -- 0.148.2</generator>
     <language>fa-ir</language>
     <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%D8%A8%D8%A7%D8%AA-%D9%87%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%DB%8C-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>آموزش و بات های کاربردی ساخت استیکر در تلگرام</title>
       <link>http://localhost:1313/posts/telegram-bot-for-sticker/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/telegram-bot-for-sticker/</guid>
       <description>آرشیو بات و آموزش های کاربردی تلگرام برای ساخت استیکر</description>
-    </item>
-    <item>
-      <title>مشکل آپدیت نشدن پیشنمایش لینک در تلگرام</title>
-      <link>http://localhost:1313/posts/link-preview-in-telegram/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/link-preview-in-telegram/</guid>
-      <description>معرفی بات آپدیت کش تلگرام</description>
-    </item>
-    <item>
-      <title>معرفی هوش مصنوعی صدا</title>
-      <link>http://localhost:1313/posts/ai-voice/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ai-voice/</guid>
-      <description>معرفی بهترین هوش مصنوعی در زمینه متن به صدا و کلون صدا</description>
     </item>
   </channel>
 </rss>
