@@ -43,6 +43,8 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  twitterCard: "summary_large_image"
+  
 
   ShowReadingTime: true
   ShowShareButtons: false
@@ -59,6 +61,16 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+
+# تنظیمات Twitter
+  twitter:
+    enable: true
+    site: "@editbalter"
+    creator: "@editbalter"
+  
+  # مسیر تصویر پیش‌فرض
+  defaultFeaturedImage: "/images/blog-preview.jpg"
+  defaultFeaturedImageAlt: "پیش‌نمایش وبلاگ آموزشی بالتر ادیت"
 
   assets:
     # disableHLJS: true # to disable highlight.js
