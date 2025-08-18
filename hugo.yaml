@@ -3,6 +3,19 @@ title: Tutorial Blog
 pagerSize: 10
 theme: ["PaperMod"]
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+outputFormats:
+  JSON:
+    baseName: "index"
+    mediaType: "application/json"
+    isPlainText: true
+    notAlternative: true
+
 
 languageCode: fa-ir
 defaultContentLanguage: fa
@@ -149,8 +162,8 @@ menu:
       params:
         icon: archive
     - identifier: example
-      name: وودی
-      url: https://woodywork.ir/
+      name: بالتر ادیت
+      url: https://balteredit.ir/
       weight: 50
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
@@ -189,13 +202,3 @@ markup:
     yearly: true
     monthly: true
     daily: false
-
-    outputs:
-  home: ["HTML", "RSS", "JSON"]  # این بخش حیاتی است
-
-outputFormats:
-  JSON:
-    baseName: "index"
-    mediaType: "application/json"
-    isPlainText: true
-    notAlternative: true
