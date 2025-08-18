@@ -1,5 +1,5 @@
 ---
-title: "Search"
-placeholder: Search demo site with full text fuzzy search ...
+title: "جستجو"
+placeholder: چیو میخوای پیدا کنی؟
 layout: "search"
 ---

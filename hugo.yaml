@@ -79,15 +79,17 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "وبلاگ آموزشی"
-    Content: آرشیو آموزش و ترفند های کاربردی
+    Content: "آموزش ادیت حرفه ای و ترفندهای کاربردی فقط با گوشی | آموزش برنامه های مختلف ادیت من جمله : الایت موشن، کپکات، آیبیس پینت، پیکسللب، و..."
 
   socialIcons:
-    - name: 
-      url: ""
-    - name: 
-      url: ""
-    - name: 
-      url: ""
+    - name: "telegram" 
+      url: "https://t.me/editbalter"
+    - name: "youtube"
+      url: "https://youtube.com/@editbalter"
+    - name: "pinterest"  
+      url: "https://de.pinterest.com/editbalter/"
+    - name: "aparat"
+      url: "https://www.aparat.com/balteredit"
 
   analytics:
     google:
@@ -110,14 +112,20 @@ params:
   # for search
   # https://fusejs.io/api/options.html
   fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
-    keys: ["title", "permalink", "summary", "content"]
+  isCaseSensitive: false
+  shouldSort: true
+  location: 0
+  distance: 800
+  threshold: 0.6
+  minMatchCharLength: 2
+  limit: 15
+  keys: 
+    - { name: "title", weight: 0.8 }
+    - { name: "summary", weight: 0.5 }
+    - { name: "permalink", weight: 0.3 }
+  ignoreLocation: true  # جستجو در کل متن
+
+
 menu:
   main:
     - identifier: categories
@@ -128,10 +136,23 @@ menu:
       name: تگ
       url: /tags/
       weight: 20
-    - identifier: example
-      name: لینک
-      url: /
+    - identifier: search  # اضافه کردن منوی جستجو
+      name: جستجو
+      url: /search/
       weight: 30
+      params:
+        icon: search
+    - identifier: archives  # اضافه کردن منوی آرشیو
+      name: آرشیو
+      url: /archives/
+      weight: 40
+      params:
+        icon: archive
+    - identifier: example
+      name: وودی
+      url: https://woodywork.ir/
+      weight: 50
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
@@ -146,3 +167,35 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+    params:
+  # فعال کردن جستجو
+  search: true
+  searchPage: true
+  
+  # تنظیمات بهینه برای زبان فارسی
+  fuseOpts:
+    isCaseSensitive: false
+    minMatchCharLength: 2
+    threshold: 0.5
+    ignoreLocation: true
+    keys:
+      - { name: "title", weight: 0.7 }
+      - { name: "summary", weight: 0.3 }
+  
+  # فعال کردن آرشیو
+  archive:
+    enable: true
+    yearly: true
+    monthly: true
+    daily: false
+
+    outputs:
+  home: ["HTML", "RSS", "JSON"]  # این بخش حیاتی است
+
+outputFormats:
+  JSON:
+    baseName: "index"
+    mediaType: "application/json"
+    isPlainText: true
+    notAlternative: true
