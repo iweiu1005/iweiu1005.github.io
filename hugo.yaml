@@ -163,10 +163,7 @@ menu:
       weight: 40
       params:
         icon: archive
-    - identifier: example
-      name: بالتر ادیت
-      url: https://balteredit.ir/
-      weight: 50
+
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

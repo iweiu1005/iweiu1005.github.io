@@ -116,3 +116,7 @@ textarea:-webkit-autofill {
 img {
     max-width: 100%;
 }
+
+.post-img {
+    width: 100%;
+}

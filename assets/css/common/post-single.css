@@ -200,6 +200,7 @@
 }
 
 .post-content pre code {
+    text-wrap: auto;
     display: grid;
     margin: auto 0;
     padding: 10px;
