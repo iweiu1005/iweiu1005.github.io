@@ -109,12 +109,16 @@ https://i.postimg.cc/rmCGY0n0/Screenshot-20250812-190311.png
 
 ### ساخت فایل های مورد نیاز سایت
 من قراره کد های مورد نیاز سایت شخصی خودم رو براتون بزارم چون یه صفحه ساده و مینیمال هستش و چیزیه که فکر کنم در وهله اول نیازتون رو برطرف کنه.. حالا بعدا میتونید محتواشو کلا حذف و تغییرش بدید فعلا میخوام طریقه ساخت و جایگذاری محتوای سایت خودم رو بهتون آموزش بدم.
-برای ساخت سایت من سه تا فایل لازمه بسازید.
-`index.html`
-`style.css`
-`script.js`
+برای ساخت سایت من سه تا فایل لازمه بسازید : `index.html` , `style.css` , `script.js`
 
-فایل index
+https://i.postimg.cc/8cX25X2n/create.jpg
+https://i.postimg.cc/NGNqpLK7/paste.jpg
+
+> بعد از ساخت هر فایل زود نرید فایل بعدیو بسازید، برید توی بخش `Actions` و منتظر بشید تا آپدیتش تموم شه بعد برید فایل بعدیو بسازید (فوقش 2 دقیقه زمان ببره زیاد طولانی نیست)
+
+https://i.postimg.cc/x8H9w2J3/photo-2025-08-19-09-54-30.jpg
+
+`index.html`
 ```
 <!DOCTYPE html>
 <!-- credit by woodywork.ir -->
@@ -155,7 +159,7 @@ https://i.postimg.cc/rmCGY0n0/Screenshot-20250812-190311.png
    <!--
           میتونی هر چند تا بخش مخفی که خواستید بسازید و اینجا توی بخش منو با لینک #id به اون بخش دسترسی پیدا کنی.
           -->
-   <p class="menu"><a href="#">home</a> ✦ <a href="#my-link">links</a> ✦ <a href="#my-detail">about</a> ✦ <a href="/">misc.</a></p>
+   <p class="menu"><a href="#">home</a> ✦ <a href="#my-link">links</a> ✦ <a href="#about-me">about</a></p>
    <!-- Header | Profile , Say What U Want! -->
    <img src="https://biaupload.com/do.php?imgf=org-c310a777b03b1.jpg" style="width: 266px;" />
    <p style="padding: 0px 18px;">
@@ -195,7 +199,7 @@ https://i.postimg.cc/rmCGY0n0/Screenshot-20250812-190311.png
    <!--
             آیدی هر بخش رو میتونید برحسب نیازتون تغییر بدید ولی یادتون باشه توی بخش منو که لینک بخش رو باید بنویسید همین آیدی که برای بخش مخفی مورد نظرتون در نظر گرفتید رو بنویسید.
              -->
-   <div class="section" id="my-detail" style="display: none;">
+   <div class="section" id="about-me" style="display: none;">
     <div class="empty"></div>
     <p class="details">
      <strong>About me :</strong><br />
@@ -217,6 +221,7 @@ https://i.postimg.cc/rmCGY0n0/Screenshot-20250812-190311.png
 </html>
 ```
 
+`style.css`
 ```
 body {
   display: flex;
@@ -351,6 +356,7 @@ a.other-link {
 }
 ```
 
+`section-change.js`
 ```
 function showSectionFromHash() {
     const hash = location.hash;
@@ -370,4 +376,43 @@ function showSectionFromHash() {
   showSectionFromHash();
   window.addEventListener("hashchange", showSectionFromHash);
 ```
+
+بعد از ساخت همه فایل ها و طی شدن همه مراحل ساختش، از تنظیمات برید بخش `Pages` و یکم پایینتر میبینید یه گزینه ای هست با عنوان `visit site` روی اون بزنید تا سایتتون براتون نشون داده بشه.
+
+### جایگذاری محتوای شخصی با محتوای اصلی کد
+اصلی ترین بخش ساخت سایت، جایگذاری محتوای خودتون با محتوای اصلیه..
+اگه یذره هم کد نویسی بلد باشید توی فایل ایندکس کامنت هایی گذاشتم که بدونید کجاهارو عوض کنید.
+ولی اگه هیچی از کد نویسی نمیدونید کافیه با کمک هوش مصنوعی چت جی پی تی یا دیپ سیک بخشهارو عوض کنید.
+کافیه فایل اصلی index.html رو توی چت پیست(جایگذاری) کنید و زیرش لیست محتوایی که میخواید عوض شه رو بنویسید.
+اینجا لیست بخشایی که باید عوض شه رو براتون مینویسم که موقع پرامپت دادن به هوش مصنوعی کارتون راحتتر شه.
+
+این محتواهارو با محتوایی که جلوش گذاشتم عوض کنید؛
+==detail==
+og:title  =  my web
+og:image  =  site-preview.jpg
+og:description  =  description
+shortcut icon  =  icon.png
+title  =  web name
+https://i.postimg.cc/pdkFc33S/detail-01.jpg
+
+==menu==
+link 1 = home / `#` 
+link 2 = about / `#about-me` 
+link 3 = links / `##my-link 
+
+==profile==
+img = profile.jpg
+p = say what you want !
+highlight = highlight text
+
+==hide section 1==
+strong = title
+links = examplelink1.ir / img.png   or   examplelink1.ir / link title
+links..
+.
+.
+
+==hide section 2==
+strong = title
+p = say what you want !
 
