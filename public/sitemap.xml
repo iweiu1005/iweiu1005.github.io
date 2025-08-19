@@ -3,16 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/how-to-create-site/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%A8%D8%A7-%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%D8%AF%D8%A7%D9%85%D9%86%D9%87-.ir/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D8%AF%D8%A7%D8%AA-%D8%A2%DB%8C-%D8%A2%D8%B1/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%D8%B3%D8%A7%D8%AE%D8%AA-%D8%B3%D8%A7%DB%8C%D8%AA/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%D8%B3%D8%A7%DB%8C%D8%AA-%D8%B4%D8%AE%D8%B5%DB%8C/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D9%BE-%DA%A9%D8%A7%D8%AA/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
@@ -30,12 +51,6 @@
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%D8%B1-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85/</loc>
-    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/how-to-create-site/</loc>
-    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%A8%D8%A7-%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/telegram-bot-for-sticker/</loc>
@@ -60,21 +75,6 @@
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85/</loc>
-    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%D8%AF%D8%A7%D9%85%D9%86%D9%87-.ir/</loc>
-    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%D8%AF%D8%A7%D9%85%D9%86%D9%87-%D8%AF%D8%A7%D8%AA-%D8%A2%DB%8C-%D8%A2%D8%B1/</loc>
-    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%D8%B3%D8%A7%D8%AE%D8%AA-%D8%B3%D8%A7%DB%8C%D8%AA/</loc>
-    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%D8%B3%D8%A7%DB%8C%D8%AA-%D8%B4%D8%AE%D8%B5%DB%8C/</loc>
-    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/%DA%AF%DB%8C%D8%AA-%D9%87%D8%A7%D8%A8/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/link-preview-in-telegram/</loc>

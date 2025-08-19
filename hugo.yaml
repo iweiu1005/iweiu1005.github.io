@@ -64,12 +64,12 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "https://uploadkon.ir/uploads/thumbs/c10815_25ico-2.png"
-    favicon16x16: "https://uploadkon.ir/uploads/thumbs/c10815_25ico-2.png"
-    favicon32x32: "https://uploadkon.ir/uploads/thumbs/c10815_25ico-2.png"
-    apple_touch_icon: "https://uploadkon.ir/uploads/thumbs/c10815_25ico-2.png"
-    safari_pinned_tab: "https://uploadkon.ir/uploads/thumbs/c10815_25ico-2.png"
-
+    favicon: "https://uploadkon.ir/uploads/8a7219_25218.png"
+    favicon16x16: "https://uploadkon.ir/uploads/8a7219_25218.png"
+    favicon32x32: "https://uploadkon.ir/uploads/8a7219_25218.png"
+    apple_touch_icon: "https://uploadkon.ir/uploads/8a7219_25218.png"
+    safari_pinned_tab: "https://uploadkon.ir/uploads/8a7219_25218.png"
+    
   label:
     text: "وبلاگ"
     icon: "/apple-touch-icon.png"
@@ -146,10 +146,6 @@ params:
 
 menu:
   main:
-    - identifier: categories
-      name: دسته بندی
-      url: /categories/
-      weight: 10
 
     - identifier: search  # اضافه کردن منوی جستجو
       name: جستجو
@@ -164,6 +160,10 @@ menu:
       params:
         icon: archive
 
+    - identifier: example
+      name: بالتر ادیت
+      url: https://balteredit.ir/
+      weight: 50
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
