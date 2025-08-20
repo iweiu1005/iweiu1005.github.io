@@ -88,8 +88,10 @@ kنگرخید هزینه خیلی زیادی نداره و برای دامنه �
 
 > این مرحله حداقل نیم ساعت / یه ربع وقت میبره..  
 
-`alice.ns.cloudflare.com`  
-`bob.ns.cloudflare.com`
+`anna.ns.cloudflare.com`  
+
+`vicente.ns.cloudflare.com`
+
 
 <img src="https://i.postimg.cc/MpKZfgrw/08.png" class="post-img">
 
@@ -100,6 +102,7 @@ kنگرخید هزینه خیلی زیادی نداره و برای دامنه �
 
   
 روی لینک `DNS Records` که آبی نوشته شده بزنید و وارد صفحه اضافه کردن رکورد ها بشید و طبق این تنظیماتی که نوشتم رکورد هارو اضافه کنید.
+
 
 <img src="https://i.postimg.cc/JnBz4JYB/13.png" class="post-img">
 <img src="https://i.postimg.cc/WzGp0VvN/14.png" class="post-img">
@@ -137,7 +140,7 @@ kنگرخید هزینه خیلی زیادی نداره و برای دامنه �
 
 
 <img src="https://i.postimg.cc/g2QKwPLJ/15.jpg" class="post-img">
-<img src="https://i.postimg.cc/yYfjHRV0/Screenshot-20250812-190237.png" class="post-img">
+<img src="https://i.postimg.cc/yYfjHRV0/Screenshot-20250812-190237.png" class="post-img">ug
 
   
 ### وصل کردن دامنه اختصاصی به ریپو (اگه دامنه خریدید)
