@@ -142,6 +142,10 @@ img {
     width: 100%;
 }
 
+.other-link img{
+    height: 35px;
+}
+
 /* ————— RESPONSIVE ————— */
 @media (max-width: 768px) {
 
@@ -150,5 +154,8 @@ img {
   }
 .first-entry .entry-header h1 {
     font-size: 18px !important;
+  }
+  .post-title {
+    font-size: 20px !important;
   }
 }

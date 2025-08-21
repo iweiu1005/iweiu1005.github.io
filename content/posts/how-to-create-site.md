@@ -766,4 +766,4 @@ p = say what you want !
 
 
 
-<a href="https://balteredit.ir/" class="other-link"><img src="https://woodywork.ir/file-directory/link/balter%20edit%20web.png"></a>
+<a href="https://t.me/editbalter" class="other-link"><img src="https://woodywork.ir/file-directory/link/balter%20edit%20web.png"></a>
