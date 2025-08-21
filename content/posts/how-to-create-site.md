@@ -759,3 +759,11 @@ p = say what you want !
 بعد از دریافت کد همش رو کپی کنید و توی فایل اصلی index جایگذاری و سیو کنید( با `commit changes` ).
 
 همین، تمام !
+
+
+
+ برای دیدن آموزش و ترفند های بیشتر به [چنلمـــــون](https://t.me/balteredit) سر بزن ![](https://s33.picofile.com/file/8485364400/Totoro18.gif)
+
+
+
+<a href="https://balteredit.ir/" class="other-link"><img src="https://woodywork.ir/file-directory/link/balter%20edit%20web.png"></a>

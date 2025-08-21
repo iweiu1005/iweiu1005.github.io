@@ -8,7 +8,7 @@ description: "آرشیو بات و آموزش های کاربردی تلگرام
 ShowToc: false
 ShowBreadCrumbs: false
 ---
-![](https://uploadkon.ir/uploads/0b2615_25aa32094fb886b5bd20c6e5de376f601a.jpg)
+![](https://uploadkon.ir/uploads/7e0421_25c39204c6c4fbe62a224d2.png)
 
 **اینجا چند تات از آموزشها و لیست باتهایی که تو ساخت پک استیکر تلگرامی کمکتون میکنه رو گذاشتم که میتونید ازشون استفاده کنید** ![](https://s33.picofile.com/file/8485364684/Totoro59.gif) 
 
