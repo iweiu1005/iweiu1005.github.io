@@ -9,7 +9,7 @@ ShowToc: true
 ShowBreadCrumbs: false
 ---
 
-![](https://i.postimg.cc/Znr2zqLN/Create-Site-Cover.jpg)
+![](https://uploadkon.ir/uploads/8dae24_25Create-Site-Cover.jpg)
 
 
 ### مقدمه
@@ -766,4 +766,4 @@ p = say what you want !
 
 
 
-<a href="https://t.me/editbalter" class="other-link"><img src="https://woodywork.ir/file-directory/link/balter%20edit%20web.png"></a>
+<a href="https://woodywork.ir" class="other-link"><img src="https://woodywork.ir/file-directory/link/balter%20edit%20web.png"></a>
