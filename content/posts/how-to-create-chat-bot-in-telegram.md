@@ -8,6 +8,7 @@ description:
 ShowToc: false
 ShowBreadCrumbs: false
 ---
+![](https://uploadkon.ir/uploads/f3fe14_25how-to-create-chatbot.jpg)
 
 برای اینکه با استفاده از بات [@ModularBot](https://t.me/ModularBot) چت بات شخصی خودتون رو بسازید؛ کافیه اول تو بات فادر [@BotFather](https://t.me/BotFather) بات رو بسازید و توکن رو براش بفرستید.
 کلا تمام مراحل ساخت و تنظیمات رو با شات براتون نشون میدم اگه توضیح اضافه ای لازم بود میگم.
