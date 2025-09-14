@@ -211,9 +211,10 @@
 }
 
 .post-content blockquote {
+    color: #ed8796;
     margin: 20px 0;
     padding: 0 14px;
-    border-inline-start: 3px solid var(--primary);
+    border-inline-start: 3px solid #ed8796;
 }
 
 .post-content hr {
