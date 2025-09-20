@@ -2,23 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ساخت بات تلگرام on Tutorial Blog</title>
-    <link>http://localhost:3736/tags/%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A8%D8%A7%D8%AA-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85/</link>
+    <link>http://localhost:1313/tags/%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A8%D8%A7%D8%AA-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85/</link>
     <description>Recent content in ساخت بات تلگرام on Tutorial Blog</description>
     <image>
       <title>Tutorial Blog</title>
-      <url>http://localhost:3736/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:3736/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.148.2</generator>
     <language>fa-ir</language>
     <lastBuildDate>Mon, 08 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:3736/tags/%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A8%D8%A7%D8%AA-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%D8%B3%D8%A7%D8%AE%D8%AA-%D8%A8%D8%A7%D8%AA-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>آموزش ساخت بات تلگرام با استفاده از ModularBot</title>
-      <link>http://localhost:3736/posts/how-to-create-chat-bot-in-telegram/</link>
+      <link>http://localhost:1313/posts/how-to-create-chat-bot-in-telegram/</link>
       <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3736/posts/how-to-create-chat-bot-in-telegram/</guid>
-      <description>&lt;p&gt;برای اینکه با استفاده از بات &lt;a href=&#34;https://t.me/ModularBot&#34;&gt;@ModularBot&lt;/a&gt; چت بات شخصی خودتون رو بسازید؛ کافیه اول تو بات فادر &lt;a href=&#34;https://t.me/BotFather&#34;&gt;@BotFather&lt;/a&gt; بات رو بسازید و توکن رو براش بفرستید.
+      <guid>http://localhost:1313/posts/how-to-create-chat-bot-in-telegram/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://uploadkon.ir/uploads/f3fe14_25how-to-create-chatbot.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;برای اینکه با استفاده از بات &lt;a href=&#34;https://t.me/ModularBot&#34;&gt;@ModularBot&lt;/a&gt; چت بات شخصی خودتون رو بسازید؛ کافیه اول تو بات فادر &lt;a href=&#34;https://t.me/BotFather&#34;&gt;@BotFather&lt;/a&gt; بات رو بسازید و توکن رو براش بفرستید.
 کلا تمام مراحل ساخت و تنظیمات رو با شات براتون نشون میدم اگه توضیح اضافه ای لازم بود میگم.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;و قبل از هر چیزی حتما حتما وی پی انتون رو روشن کنید چون با اپ بات فادر بات رو ساختم، و این بخش نیاز به وی پی ان داره با دستور ها هم میشه ولی چون من با این روش جدید آموزش دادم و راحت بود شمام همین کارو کنید &lt;img loading=&#34;lazy&#34; class=&#34;emoji&#34; src=&#34;https://uploadkon.ir/uploads/43b814_25unnamed-AgADwBsAAjquOVI.png&#34;&gt;&lt;/p&gt;</description>
