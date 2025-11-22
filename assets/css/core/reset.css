@@ -146,6 +146,16 @@ img {
     height: 35px;
 }
 
+
+.emoji {
+    height: 23px;
+    position: absolute;
+}
+
+.memoji img{
+        height: 23px;
+    position: absolute;
+}
 /* ————— RESPONSIVE ————— */
 @media (max-width: 768px) {
 
