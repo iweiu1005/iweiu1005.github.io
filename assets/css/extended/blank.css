@@ -5,11 +5,11 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 */
 
 .emoji {
-    height: 23px;
-    position: absolute;
+    height: 23px !important;
+    position: absolute  !important;
 }
 
 .memoji img{
-        height: 23px;
-    position: absolute;
+        height: 23px  !important;
+    position: absolute  !important;
 }
