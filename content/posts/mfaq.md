@@ -66,7 +66,7 @@ ShowBreadCrumbs: false
 [تغییر رنگ بکگراند استوری اینستاگرام](https://t.me/editquestion/237)  
 [متن رنگارنگ در استوری اینستاگرام](https://t.me/editquestion/956)
 
-### نکات فنی
+### سوالات دیگه
 [کاهش کیفیت ویدیو بدون کم شدن فریم ریت](https://t.me/editquestion/3883)  
 [ساخت تم دارک آیفونی در اندروید](https://t.me/editbalter/259)  
 [مشاهده ویدیوهای یوتیوب با زیرنویس فارسی](https://t.me/editquestion/10412)  
