@@ -4,7 +4,8 @@ title: آموزش ساخت بات تلگرام با استفاده از ModularB
 date: "2025-09-08"
 tags: [ساخت بات تلگرام , بات تلگرام , آموزش ساخت بات تلگرام]
 categories: [تلگرام]
-description: 
+description: آموزش ساخت بات تلگرامی با استفاده از بات مدولار بصورت کاملا رایگان
+comments: true
 ShowToc: false
 ShowBreadCrumbs: false
 ---
