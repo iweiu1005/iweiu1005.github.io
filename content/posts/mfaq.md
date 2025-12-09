@@ -5,6 +5,7 @@ date: "2025-11-29"
 tags: [ "سوالات پرتکرار ادیت" ,  "FAQ" ]
 categories:  [ "FAQ" ]
 description: "جواب سوالایی که خیلیاتون پرسیدین و خیلی ممکنه سوال توام توش باشه"
+comments: true
 ShowToc: true
 ShowBreadCrumbs: false
 ---
