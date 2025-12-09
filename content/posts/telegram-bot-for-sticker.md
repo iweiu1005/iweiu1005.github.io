@@ -6,6 +6,7 @@ tags: ["تلگرام", "بات تلگرام", آموزش ساخت استیکر �
 categories: [تلگرام]
 description: "آرشیو بات و آموزش های کاربردی تلگرام برای ساخت استیکر"
 ShowToc: false
+comments: true
 ShowBreadCrumbs: false
 ---
 ![](https://uploadkon.ir/uploads/7e0421_25c39204c6c4fbe62a224d2.png)
