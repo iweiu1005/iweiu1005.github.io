@@ -5,6 +5,7 @@ date: "2025-11-22"
 tags: [ "ادیت", "اصطلاحات ادیت", "آموزش ادیت"]
 categories:  [آموزش ادیت]
 description: "لیست پرکاربردترین اصطلاحات و کلمات در ادیت عکس و فیلم"
+comments: true
 ShowToc: false
 ShowBreadCrumbs: false
 ---
