@@ -32,7 +32,7 @@ html {
     text-size-adjust: 100%;
 }
 
-a,
+
 button,
 body,
 h1,
@@ -44,6 +44,9 @@ h6 {
     color: var(--primary);
 }
 
+a {
+    color: var(--links);
+}
 body {
     direction: rtl;
     font-family: "Rubik", sans-serif;
