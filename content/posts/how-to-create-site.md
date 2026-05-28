@@ -162,7 +162,7 @@ ShowBreadCrumbs: false
 ### ساخت فایل های مورد نیاز سایت
 من قراره کد های مورد نیاز سایت شخصی خودم رو براتون بزارم چون یه صفحه ساده و مینیمال هستش و چیزیه که فکر کنم در وهله اول نیازتون رو برطرف کنه.. حالا بعدا میتونید محتواشو کلا حذف و تغییرش بدید فعلا میخوام طریقه ساخت و جایگذاری محتوای سایت خودم رو بهتون آموزش بدم.  
 
-برای ساخت سایت من سه تا فایل لازمه بسازید : [index.html](/images/file/woodywebtxt/index.txt) , [style.css](/images/file/woodywebtxt/style.txt) , [script.js](/images/file/woodywebtxt/script.txt)
+برای ساخت سایت من سه تا فایل لازمه بسازید : [index.html](/file/woodywebtxt/index.txt) , [style.css](/file/woodywebtxt/style.txt) , [script.js](/file/woodywebtxt/script.txt)
  
 <img src="https://i.postimg.cc/8cX25X2n/create.jpg" class="post-img">
 <img src="https://i.postimg.cc/NGNqpLK7/paste.jpg" class="post-img">
