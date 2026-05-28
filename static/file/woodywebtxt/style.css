@@ -1,0 +1,257 @@
+body {
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  min-height: 95vh;
+
+  /* ارتفاع کامل صفحه */
+
+  font-family: "Noto Sans", sans-serif;
+
+  font-size: 20px;
+
+  margin: 0;
+
+  background-color: #fff;
+
+  background-size: cover;
+
+  background-repeat: no-repeat;
+
+  padding: 0;
+
+  color: #333;
+
+  line-height: 1.6;
+
+  flex-direction: column;
+
+  overflow: hidden;
+
+}
+
+p {
+
+  text-align: justify;
+
+  padding: 0px 18px;
+
+  font-size: 9px;
+
+  text-align: justify;
+
+  width: 88%;
+
+}
+
+a {
+
+  color: #ff5f56;
+
+  text-decoration: none;
+
+  padding: 0px 5px 0px 5px;
+
+}
+
+a:hover {
+
+  background-color: #ffe9e9;
+
+}
+
+::selection {
+
+  background-color: #ffe9e9;
+
+  color: #ff5f56;
+
+}
+
+.window {
+
+  display: flex;
+
+  position: relative;
+
+  flex-direction: column;
+
+  align-items: center;
+
+  max-width: 600px;
+
+  width: 300px;
+
+  background: white;
+
+  padding: 5px 0px 5px 0px;
+
+}
+
+.other-link-box {
+
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 2px;
+
+  padding: 0px 15px;
+
+}
+
+a.other-link {
+
+  display: contents;
+
+}
+
+.other-link a:hover {
+
+  background: none;
+
+}
+
+.other-link img {
+
+  height: 25px;
+
+}
+
+.menu {
+
+  text-align: right;
+
+}
+
+.empty {
+
+  height: 15px;
+
+  background-color: #1d1210;
+
+  width: 90%;
+
+}
+
+.section {
+
+  display: none;
+
+  flex-direction: column;
+
+  align-items: center;
+
+}
+
+.flex-column-center {
+
+  width: 100%;
+
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+
+}
+
+.main {
+
+  flex-grow: 1;
+
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 5px;
+
+  width: 220px;
+
+  padding: 15px 10px;
+
+}
+
+.highlight {
+
+  background: #f9f5c0;
+
+}
+
+.credit {
+
+  color: #dadada;
+
+  font-size: 9px;
+
+  position: absolute;
+
+  bottom: 5px;
+
+  width: 100%;
+
+  text-align: center;
+
+}
+
+.credit a {
+
+  color: #ababab;
+
+}
+
+.credit a:hover {
+
+  background-color: white;
+
+  text-decoration: underline;
+
+}
+
+  
+
+/* ————— RESPONSIVE ————— */
+
+@media (max-width: 768px) {
+
+  body {
+
+    padding: 20px;
+
+  }
+
+  p {
+
+    font-size: 8px;
+
+  }
+
+  .window {
+
+    margin: 0 auto;
+
+  }
+
+  
+
+  .window-body {
+
+    gap: 15px;
+
+  }
+
+}
+
+@media (max-width: 480px) {
+
+  body {
+
+    padding: 10px;
+
+  }
+
+}
