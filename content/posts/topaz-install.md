@@ -21,6 +21,12 @@ ShowBreadCrumbs: false
 
 ![](https://uploadkon.ir/uploads/3d8522_26windows-security2.png)
 
+
+> بعد از اینکه کارتون تموم شد میتونید دوباره روشنش کنید.
+> برای اینکه بعدا مشکلی واسه کرکتون پیش نیاد میتونید فولدری که توپاز توش نصب هست رو انتخاب و بعنوان پوشه استثنا قرار بدید تا بعدا نیاد کرکتونو حذف کنه..  
+
+![](https://uploadkon.ir/uploads/e33822_26exclusion.png)
+
 > راهنمای تصویری مراحل نصب و کرک برنامه :
 
 ![](https://uploadkon.ir/uploads/702b22_26crack2.png)
