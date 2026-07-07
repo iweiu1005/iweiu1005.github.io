@@ -51,9 +51,35 @@ ShowBreadCrumbs: false
 
 سبک‌های متنوع و زیادی توی گرافیک دیزاین وجود داره، اما بعضی از معروف‌ترین و ترند‌ترین سبک‌ها توی این چندوقت شامل:
 
-• Y2K • Coquette • Technical Futurism Acid Core • Analog Chaos • Neo-Folk • Doodle Core • Pixel Art • Retro • Maximalist • Pop Culture • Lifestyle Design • Liquid Glass • Gradient Bloom • iOS Core
+• Y2K 
+![](https://uploadkon.ir/uploads/a87d07_26design-style-1.jpg)
+• Coquette 
+![](https://uploadkon.ir/uploads/bef507_26design-style-2.jpg)
+• Technical Futurism Acid Core 
+![](https://uploadkon.ir/uploads/b78707_26design-style-3.jpg)
+• Analog Chaos 
+![](https://uploadkon.ir/uploads/018507_26design-style-4.jpg)
+• Neo-Folk 
+![](https://uploadkon.ir/uploads/0b0407_26design-style-5.jpg)
+• Doodle Core 
+![](https://uploadkon.ir/uploads/a0ee07_26design-style-6.jpg)
+• Pixel Art 
+![](https://uploadkon.ir/uploads/dce107_26design-style-7.jpg)
+• Retro 
+![](https://uploadkon.ir/uploads/b70e07_26design-style-8.jpg)
+• Maximalist 
+![](https://uploadkon.ir/uploads/8c1c07_26design-style-9.jpg)
+• Pop Culture 
+![](https://uploadkon.ir/uploads/342507_26design-style-10.jpg)
+• Lifestyle Design 
+![](https://uploadkon.ir/uploads/0b8d07_26design-style-11.jpg)
+• Liquid Glass 
+![](https://uploadkon.ir/uploads/cd8107_26design-style-12.jpg)
+• Gradient Bloom 
+![](https://uploadkon.ir/uploads/633e07_26design-style-13.jpg)
+• iOS Core
+![](https://uploadkon.ir/uploads/c19007_26design-style-14.jpg) 
 
-![Analog Chaos](https://uploadkon.ir/uploads/d09d29_26IMG-20260629-092846-259.jpg)
 
 ### آیا میشه از گرافیک دیزاین درآمد داشت؟
 
