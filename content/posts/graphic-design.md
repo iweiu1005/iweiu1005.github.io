@@ -10,6 +10,7 @@ ShowToc: true
 ShowBreadCrumbs: false
 ---
 
+![](https://uploadkon.ir/uploads/4f3929_26IMG-20260628-230413-917.jpg)
 
 ### گرافیک دیزاین چیه؟
 
