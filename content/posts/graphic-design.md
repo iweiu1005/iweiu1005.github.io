@@ -61,5 +61,6 @@ ShowBreadCrumbs: false
 
 • طراحی پوستر • طراحی کاور موزیک • ساخت تامبنیل یوتیوب • طراحی پست و استوری • طراحی بنر سایت • طراحی لوگو • طراحی پورتفولیو • طراحی کاور ریلز • طراحی هایلایت • طراحی تمپلیت • طراحی هویت بصری یک برند و ... درآمد داشته باشین
 
-> امیدوارم این تلگراف براتون مفید بوده باشه. اگر از این مدل معرفی‌ها خوشتون اومد، حتماً نظرتون رو بهم بگید))
-<a href="https://t.me/Tarxviobot" class="other-link"><img src="https://uploadkon.ir/uploads/290507_26Contact-Tara.png"></a>
+> امیدوارم این تلگراف براتون مفید بوده باشه. اگر از این مدل معرفی‌ها خوشتون اومد، حتماً نظرتون رو بهم بگید)) <img src="https://s21.uupload.ir/files/iweiu/gif/jungle/17.gif" alt="pixel">
+
+<a href="https://t.me/Tarxviobot" target="_blank" class="other-link"><img src="https://uploadkon.ir/uploads/290507_26Contact-Tara.png"></a>
